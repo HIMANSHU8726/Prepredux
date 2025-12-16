@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "12842534528",
+    "project_id": "prepredux",
+    "storage_bucket": "prepredux.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12842534528:android:ebdcc56b83b5bb71320865",
+        "android_client_info": {
+          "package_name": "com.prepredux"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12842534528-je2m3ua7h1tkkqaiua33cdlcjimirm1q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.prepredux",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "12842534528-mis1kd2v6shai2ifmg05dc46p0p2tqp2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKNGohj--2HxeE-qgdH1R7uxiJ_fdM6i8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12842534528-mis1kd2v6shai2ifmg05dc46p0p2tqp2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
